@@ -11,6 +11,6 @@
     <Li><a href="menu.html">Menu</a></li>
   </UL>
 </nav>
-<header> <img src="mnp.jpg" width="250" height="100"> </header>
+<header> <img src="LOGO ONLY1.png" width="250" height="100"> </header>
 <hr color="red">
 
