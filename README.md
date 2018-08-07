@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <head>
-<title>Home</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,6 +12,5 @@
   </UL>
 </nav>
 <header> <img src="mnp.jpg" width="250" height="100"> </header>
-
 <hr color="red">
 
