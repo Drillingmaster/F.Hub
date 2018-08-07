@@ -6,7 +6,7 @@
 <nav>
   <UL>
     <li><a href="index.HTML">Home</a></li>
-    <li><a href="about.html">About Us</a></li>
+    <li><a href="about(1).html">About Us</a></li>
     <Li><a href="contact.html">Contact Us</a></li>
     <Li><a href="menu.html">Menu</a></li>
   </UL>
